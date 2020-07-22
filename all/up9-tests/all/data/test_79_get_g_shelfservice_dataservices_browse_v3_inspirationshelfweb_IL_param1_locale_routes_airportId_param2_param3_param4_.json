@@ -1,0 +1,38 @@
+{
+ "parameters": [
+  {
+   "name": "apikey",
+   "uuid": "66076c74-d328-47c0-b8ce-f5c6e39bb814"
+  },
+  {
+   "name": "minDestinations",
+   "uuid": "41046256-d59f-48db-bbaa-f87615ab2be9"
+  },
+  {
+   "name": "param",
+   "uuid": "b8da09db-c1aa-42ec-b5af-431cf68efe80"
+  },
+  {
+   "name": "param2",
+   "uuid": "df5c2581-6654-43c7-b9e8-7c473f00da28"
+  },
+  {
+   "name": "param3",
+   "uuid": "cfa93c1f-e239-4075-a437-c385ef1fc72d"
+  },
+  {
+   "name": "param4",
+   "uuid": "c3fa1d88-3553-4234-9f5e-f146c47297be"
+  }
+ ],
+ "rows": [
+  {
+   "apikey": "f7ff554d4fea4d8bb81c1412da50bb60",
+   "minDestinations": "3",
+   "param": "GBP",
+   "param2": "AMST;PRAG;BKKT;NYCA;ROME;LARN;BERL;MADR;TELA;BARC;BUDA;LOND;MUNI;BUCH;KIEV;PARI;MILA;ATHE;MOSC;IDEL",
+   "param3": "2020-08",
+   "param4": "2020-08"
+  }
+ ]
+}

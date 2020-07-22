@@ -1,0 +1,118 @@
+{
+ "parameters": [
+  {
+   "name": "traveller_context",
+   "uuid": "ae254fd7-0783-40cb-8f9b-62816d69b892"
+  },
+  {
+   "name": "param",
+   "uuid": "ddbd07ba-ae04-4e0e-bb76-1ce73560d2d1"
+  },
+  {
+   "name": "param2",
+   "uuid": "d64818d3-1a1f-484c-937f-ba233967a2bb"
+  },
+  {
+   "name": "daylight_savings_offset_mins",
+   "uuid": "4f1e964e-4504-48c6-861b-2f3eca22edba"
+  },
+  {
+   "name": "device_guid",
+   "uuid": "8a4f0c5f-072a-49b0-b129-1d35ea996719"
+  },
+  {
+   "name": "guid",
+   "uuid": "ae4571e6-a63e-44a7-bf53-ecb08f9db8e2"
+  },
+  {
+   "name": "location_attribute_encoding",
+   "uuid": "c85c7603-4bc8-4024-b08d-cc676ae9c20b"
+  },
+  {
+   "name": "location_id",
+   "uuid": "9eacffaa-5c70-4934-9959-11508a1066ac"
+  },
+  {
+   "name": "panel_types",
+   "uuid": "193a706f-17af-4ee3-bc59-1d2e978ee9e9"
+  },
+  {
+   "name": "param3",
+   "uuid": "701e22f6-249f-4a62-87ed-3dbf51b9456d"
+  },
+  {
+   "name": "timezone_offset_mins",
+   "uuid": "999599e5-f03e-47cb-a74f-31b874df8816"
+  },
+  {
+   "name": "user_agent",
+   "uuid": "89c4099b-cb61-47e2-ac96-7c248e1d1564"
+  },
+  {
+   "name": "user_preferences_guid",
+   "uuid": "fa73a9f9-f111-493d-a874-ee93c57ac342"
+  }
+ ],
+ "rows": [
+  {
+   "traveller_context": "fa55c270-19e6-4ba2-b4ab-ef25a859b8f4",
+   "param": "200519",
+   "param2": "200526",
+   "daylight_savings_offset_mins": 60,
+   "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+   "guid": "092432b9-3c13-44db-a9a4-238323796615",
+   "location_attribute_encoding": "SS_GEO1_ID",
+   "location_id": "TLV",
+   "panel_types": "EMBEDDED_MAP",
+   "param3": "browse_funnel.InspirationShelfLoaded",
+   "timezone_offset_mins": 120,
+   "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36",
+   "user_preferences_guid": "3942e5ff-d771-4618-a666-05a87a415dcb"
+  },
+  {
+   "traveller_context": "fa55c270-19e6-4ba2-b4ab-ef25a859b8f4",
+   "param": "200519",
+   "param2": "200526",
+   "daylight_savings_offset_mins": 60,
+   "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+   "guid": "092432b9-3c13-44db-a9a4-238323796615",
+   "location_attribute_encoding": "SS_GEO1_ID",
+   "location_id": "TLV",
+   "panel_types": "POPULAR",
+   "param3": "browse_funnel.InspirationShelfLoaded",
+   "timezone_offset_mins": 120,
+   "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36",
+   "user_preferences_guid": "3942e5ff-d771-4618-a666-05a87a415dcb"
+  },
+  {
+   "traveller_context": "fa55c270-19e6-4ba2-b4ab-ef25a859b8f4",
+   "param": "200519",
+   "param2": "200526",
+   "daylight_savings_offset_mins": 60,
+   "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+   "guid": "335e5513-9d05-4b7e-8d23-59265a7440be",
+   "location_attribute_encoding": "SS_GEO1_ID",
+   "location_id": "TLV",
+   "panel_types": "EMBEDDED_MAP",
+   "param3": "browse_funnel.InspirationShelfLoaded",
+   "timezone_offset_mins": 120,
+   "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36",
+   "user_preferences_guid": "3942e5ff-d771-4618-a666-05a87a415dcb"
+  },
+  {
+   "traveller_context": "fa55c270-19e6-4ba2-b4ab-ef25a859b8f4",
+   "param": "200519",
+   "param2": "200526",
+   "daylight_savings_offset_mins": 60,
+   "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+   "guid": "335e5513-9d05-4b7e-8d23-59265a7440be",
+   "location_attribute_encoding": "SS_GEO1_ID",
+   "location_id": "TLV",
+   "panel_types": "EMPTY_TILE",
+   "param3": "browse_funnel.InspirationShelfLoaded",
+   "timezone_offset_mins": 120,
+   "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36",
+   "user_preferences_guid": "3942e5ff-d771-4618-a666-05a87a415dcb"
+  }
+ ]
+}

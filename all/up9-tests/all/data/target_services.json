@@ -1,0 +1,13 @@
+{
+ "TARGET_API_PERMUTIVE_COM": "https://api.permutive.com",
+ "TARGET_BACKEND_UPAPI_NET": "https://backend.upapi.net",
+ "TARGET_CDN_FIRSTIMPRESSION_IO": "https://cdn.firstimpression.io",
+ "TARGET_SUBSCRIPTION_OMNITHROTTLE_COM": "https://subscription.omnithrottle.com",
+ "TARGET_TRDEMO_STG_TESTR_IO": "https://trdemo.stg.testr.io",
+ "TARGET_WWW_GOOGLE_CO_IL": "https://www.google.co.il",
+ "TARGET_WWW_SKYSCANNER_CO_IL": "https://www.skyscanner.co.il",
+ "TARGET_WWW_SKYSCANNER_NET": "https://www.skyscanner.net",
+ "TARGET_WWW_WALLA_CO_IL": "https://www.walla.co.il",
+ "TARGET_WWW_YNET_CO_IL": "https://www.ynet.co.il",
+ "TARGET_Z_YNET_CO_IL": "https://z.ynet.co.il"
+}

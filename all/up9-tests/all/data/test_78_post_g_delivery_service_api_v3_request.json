@@ -1,0 +1,93 @@
+{
+ "parameters": [
+  {
+   "name": "traveller_context",
+   "uuid": "ae254fd7-0783-40cb-8f9b-62816d69b892"
+  },
+  {
+   "name": "adslot_bdbd9c3f",
+   "uuid": "12cc0149-c496-497c-b707-8b549d80d0dd"
+  },
+  {
+   "name": "cabin_class",
+   "uuid": "787787d4-2243-40da-9119-e367775e28cb"
+  },
+  {
+   "name": "daylight_savings_offset_mins",
+   "uuid": "00312677-7e12-430c-bb59-273566b5e222"
+  },
+  {
+   "name": "daylight_savings_offset_mins2",
+   "uuid": "edd20041-34c1-4860-ba15-5eb17f59d2dc"
+  },
+  {
+   "name": "display_height",
+   "uuid": "da07b561-21a8-4762-b3ac-228305506ce7"
+  },
+  {
+   "name": "display_width",
+   "uuid": "d983bd68-c992-4322-8958-450baf67ece4"
+  },
+  {
+   "name": "duration",
+   "uuid": "fcf6deb1-85e2-4462-b7c7-4ddb0c8e72a0"
+  },
+  {
+   "name": "ga_cid",
+   "uuid": "2e95b3f3-d745-405a-82fb-b21bc4bde6ab"
+  },
+  {
+   "name": "itinerary_type",
+   "uuid": "20b5dc8f-8215-49ab-9e9a-0e638ab34867"
+  },
+  {
+   "name": "_platform",
+   "uuid": "3518e97a-b545-4860-b2ea-7e1382565950"
+  },
+  {
+   "name": "pqs_house_ad",
+   "uuid": "44e04021-9a1d-4df3-9f8e-f2b7ec522eea"
+  },
+  {
+   "name": "request_id",
+   "uuid": "353f6c55-3ba1-4e5f-b172-6553b4eef2dd"
+  },
+  {
+   "name": "timezone_offset_mins",
+   "uuid": "ca59c70b-6c91-431b-8127-14fa3d88a11b"
+  },
+  {
+   "name": "timezone_offset_mins2",
+   "uuid": "0765e701-a0e8-4728-91d0-94343904a5be"
+  },
+  {
+   "name": "unix_time_millis",
+   "uuid": "08217d83-7391-4f4b-9c0e-ddc1373c4784"
+  },
+  {
+   "name": "unix_time_millis2",
+   "uuid": "39be42eb-a4e0-424f-9a87-7f9a5f142266"
+  }
+ ],
+ "rows": [
+  {
+   "traveller_context": "fa55c270-19e6-4ba2-b4ab-ef25a859b8f4",
+   "adslot_bdbd9c3f": "desktop.flights.browseview/leaderboard",
+   "cabin_class": "ECONOMY",
+   "daylight_savings_offset_mins": 60,
+   "daylight_savings_offset_mins2": 60,
+   "display_height": 1050,
+   "display_width": 1680,
+   "duration": 7,
+   "ga_cid": "387366589.1589451944",
+   "itinerary_type": "ROUND",
+   "_platform": "DESKTOP_WEB",
+   "pqs_house_ad": "desktop.flights.browseview/pqs",
+   "request_id": "128a41d4-66a7-4e32-b4fb-3e1fdb658000",
+   "timezone_offset_mins": -180,
+   "timezone_offset_mins2": -180,
+   "unix_time_millis": 1590451200000,
+   "unix_time_millis2": 1589846400000
+  }
+ ]
+}

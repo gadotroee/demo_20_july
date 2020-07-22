@@ -1,0 +1,18 @@
+{
+ "parameters": [
+  {
+   "name": "cd",
+   "uuid": "1750e9b3-b095-4cf9-9be3-3708b1b71ae2"
+  },
+  {
+   "name": "param",
+   "uuid": "b593538c-7701-413c-910f-ad6c3addf57e"
+  }
+ ],
+ "rows": [
+  {
+   "cd": "12",
+   "param": "dest-rec-service-v2"
+  }
+ ]
+}

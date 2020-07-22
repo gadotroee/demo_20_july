@@ -1,0 +1,20 @@
+{
+ "header": {
+  "client_timestamp": {
+   "date_time_kind": 0,
+   "daylight_savings_offset_mins": "60",
+   "timezone_offset_mins": "120",
+   "unix_time_millis": "1589451943362"
+  },
+  "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+  "experiment_allocation_id": "80707570efd7fbd3f29a3c5b99ef3c5690ee6269c99286b5fddb73492c83a6ab",
+  "guid": "2ff1c187-f6f4-4404-8ae3-140ee0edfd2f",
+  "sequence_number": "1",
+  "traveller_identity": {
+   "authentication_status": "UNAUTHENTICATED",
+   "utid": "a64b2678-54dd-4b8a-b80d-b8d004468f55"
+  }
+ },
+ "name": "https://www.skyscanner.co.il/?previousCultureSource=COOKIE&redirectedFrom=www.skyscanner.net",
+ "referrer_url": "https://www.google.com/"
+}
