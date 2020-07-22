@@ -1,0 +1,46 @@
+{
+ "parameters": [
+  {
+   "name": "param",
+   "uuid": "a748af8a-eb25-44ff-92ab-fa4c3254a77e"
+  },
+  {
+   "name": "bannerid",
+   "uuid": "2ca6a85e-a6ef-4901-a078-bce74b3724dd"
+  },
+  {
+   "name": "campaignid",
+   "uuid": "9a2f3d34-36a4-416f-bb54-e53561c08509"
+  },
+  {
+   "name": "cb",
+   "uuid": "eb421a4d-d2d3-4c30-a631-7f3b78fa75d6"
+  },
+  {
+   "name": "ficb",
+   "uuid": "36aded81-c460-46e7-8679-2c4baebc3445"
+  },
+  {
+   "name": "zoneid",
+   "uuid": "d96a97a0-6b5f-4ef1-8d04-2ca80101d534"
+  }
+ ],
+ "rows": [
+  {
+   "param": "0,7340,L-3,00.html",
+   "bannerid": "39459",
+   "campaignid": "250",
+   "cb": "27e0f5f2f9",
+   "ficb": "216319",
+   "zoneid": "107891"
+  },
+  {
+   "param": "0,7340,L-8,00.html",
+   "bannerid": "43807",
+   "campaignid": "250",
+   "cb": "df576a93f7",
+   "ficb": "801498",
+   "zoneid": "108627"
+  }
+ ]
+}

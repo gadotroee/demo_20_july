@@ -1,0 +1,64 @@
+{
+ "parameters": [
+  {
+   "name": "traveller_context",
+   "uuid": "ae254fd7-0783-40cb-8f9b-62816d69b892"
+  },
+  {
+   "name": "param",
+   "uuid": "ddbd07ba-ae04-4e0e-bb76-1ce73560d2d1"
+  },
+  {
+   "name": "param2",
+   "uuid": "d64818d3-1a1f-484c-937f-ba233967a2bb"
+  },
+  {
+   "name": "currency",
+   "uuid": "67700bda-fdae-40eb-9e9e-a1684102d7a7"
+  },
+  {
+   "name": "daylight_savings_offset_mins",
+   "uuid": "d944eae4-30c7-482f-a682-0044a8736af0"
+  },
+  {
+   "name": "device_guid",
+   "uuid": "da52c71b-968c-4eff-87f1-104da0827f42"
+  },
+  {
+   "name": "guid",
+   "uuid": "723c1e1f-09cb-494c-9d47-90008ab2e930"
+  },
+  {
+   "name": "is_gdpr_initialised",
+   "uuid": "9eee8cfc-720b-429e-8035-35af9720df78"
+  },
+  {
+   "name": "timezone_offset_mins",
+   "uuid": "017b49e7-0ccb-4fbc-8c68-f86ae0702792"
+  }
+ ],
+ "rows": [
+  {
+   "traveller_context": "fa55c270-19e6-4ba2-b4ab-ef25a859b8f4",
+   "param": "200519",
+   "param2": "200526",
+   "currency": "USD",
+   "daylight_savings_offset_mins": 60,
+   "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+   "guid": "3942e5ff-d771-4618-a666-05a87a415dcb",
+   "is_gdpr_initialised": true,
+   "timezone_offset_mins": 120
+  },
+  {
+   "traveller_context": "fa55c270-19e6-4ba2-b4ab-ef25a859b8f4",
+   "param": "200519",
+   "param2": "200526",
+   "currency": "USD",
+   "daylight_savings_offset_mins": 60,
+   "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+   "guid": "8a91491c-fcfe-4daa-ac49-f0d9aa3f560f",
+   "is_gdpr_initialised": true,
+   "timezone_offset_mins": 120
+  }
+ ]
+}
