@@ -1,0 +1,22 @@
+{
+ "parameters": [
+  {
+   "name": "nonce",
+   "uuid": "935d53ef-69f0-4465-afae-2b7c0f5bf6e5"
+  },
+  {
+   "name": "redirect_uri",
+   "uuid": "35d2e310-85fd-40b4-954d-2f0bb9e5c96a"
+  }
+ ],
+ "rows": [
+  {
+   "nonce": "0ff85699-1923-4975-812f-d6028303911a",
+   "redirect_uri": "https://stg.testr.io/silent-check-sso.html"
+  },
+  {
+   "nonce": "c02e43d0-6b2d-48aa-8e8e-b36daa00b512",
+   "redirect_uri": "https://stg.testr.io/silent-check-sso.html"
+  }
+ ]
+}

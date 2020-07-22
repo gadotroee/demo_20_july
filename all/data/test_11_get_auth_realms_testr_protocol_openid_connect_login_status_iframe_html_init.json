@@ -1,0 +1,13 @@
+{
+ "parameters": [
+  {
+   "name": "origin",
+   "uuid": "2c5a9381-d688-4021-aee5-4ac95694f574"
+  }
+ ],
+ "rows": [
+  {
+   "origin": "https://stg.testr.io"
+  }
+ ]
+}

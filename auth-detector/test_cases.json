@@ -1,0 +1,3 @@
+{
+ "60": "  @json_dataset('data/test_60_get_detect.json')\n  @clear_session({'spanId': 60})\n  def test_60_get_detect(self, data_row):\n    model, = data_row\n\n    # endpoint 60\n    qstr = '?' + urlencode([('model', model), ('subsystem', 'liraz')])\n    authdetector_stg_testr_io = get_http_target('TARGET_AUTHDETECTOR_STG_TESTR_IO', authenticate)\n    resp = authdetector_stg_testr_io.get('/detect' + qstr)\n\n"
+}

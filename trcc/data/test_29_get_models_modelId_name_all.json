@@ -1,0 +1,26 @@
+{
+ "parameters": [
+  {
+   "name": "modelId",
+   "uuid": "87a2a4f0-646c-43aa-bc02-c6087ea77330"
+  },
+  {
+   "name": "name",
+   "uuid": "0790d9b5-0d92-43a1-8fe3-e9532db3826b"
+  }
+ ],
+ "rows": [
+  {
+   "modelId": "sy_overops_14_05_20",
+   "name": "8"
+  },
+  {
+   "modelId": "sy_overops_14_05_20",
+   "name": "9"
+  },
+  {
+   "modelId": "sy_overops_14_05_20",
+   "name": "all"
+  }
+ ]
+}

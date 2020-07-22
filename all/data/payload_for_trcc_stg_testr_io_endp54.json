@@ -1,0 +1,31 @@
+{
+ "authentication": {
+  "authHelper": {
+   "additionalUrls": [
+    "https://app.overops.com/"
+   ],
+   "endpoints": [
+    {
+     "headers": {
+      "x-csrf-token": {}
+     },
+     "method": "post",
+     "originalUrl": "app.overops.com/",
+     "path": "/",
+     "regex": "^/$",
+     "regexPath": {},
+     "service": "https://app.overops.com",
+     "target": "TARGET_APP_OVEROPS_COM"
+    }
+   ],
+   "formURL": "http://app.overops.com/",
+   "headers": {
+    "x-csrf-token": {}
+   },
+   "password": "Aa123456",
+   "skipForm": false,
+   "username": "qwerqwerasdfqwer@protonmail.com"
+  },
+  "mode": "authHelper"
+ }
+}

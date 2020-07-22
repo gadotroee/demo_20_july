@@ -1,0 +1,18 @@
+{
+ "parameters": [
+  {
+   "name": "password",
+   "uuid": "130ad3ce-0c1e-4f60-8205-70d9794b3be4"
+  },
+  {
+   "name": "username",
+   "uuid": "e652031d-f117-42e5-b275-e4747555b9f4"
+  }
+ ],
+ "rows": [
+  {
+   "password": "qwertY123456!",
+   "username": "alon@up9.io"
+  }
+ ]
+}
