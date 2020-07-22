@@ -1,0 +1,23 @@
+{
+ "parameters": [
+  {
+   "name": "p_CID",
+   "uuid": "bb22804c-cad6-40a9-a295-ebfe27a1b5f3"
+  },
+  {
+   "name": "p_uid",
+   "uuid": "2fdfa8ac-405c-4b0c-a8c2-8d120d8ac99f"
+  },
+  {
+   "name": "rm",
+   "uuid": "8249122f-f4ab-44e3-9b1d-096bd085e19e"
+  }
+ ],
+ "rows": [
+  {
+   "p_CID": "0aaXMI4ae2HVtyUB1KfywtH3O1Fb9vUenRhtsMiGnUY",
+   "p_uid": "69efdfe195434b517f416eeb76d10982e1de5ef097c3dbae29c1cd6bc846c631419fe3a051d1b47f",
+   "rm": "HTTP_REDIRECT"
+  }
+ ]
+}

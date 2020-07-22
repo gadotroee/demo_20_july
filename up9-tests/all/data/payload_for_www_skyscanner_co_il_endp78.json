@@ -1,0 +1,78 @@
+{
+ "id_placements": {
+  "adslot-bdbd9c3f": "desktop.flights.browseview/leaderboard",
+  "pqs-house-ad": "desktop.flights.browseview/pqs"
+ },
+ "targeting": {
+  "cabin_class": "ECONOMY",
+  "culture_settings": {
+   "country": "IL",
+   "currency": "USD",
+   "locale": "en-US"
+  },
+  "destination": {},
+  "duration": "7",
+  "itinerary_type": "ROUND",
+  "origin": {
+   "airport": {
+    "location_attribute": {
+     "location_attribute_encoding": "IATA",
+     "location_id": "TLV",
+     "location_name": "Ben Gurion Intl"
+    }
+   },
+   "city": {
+    "location_attribute": {
+     "location_attribute_encoding": "IATA",
+     "location_id": "TELA",
+     "location_name": "Tel Aviv"
+    }
+   },
+   "country": {
+    "location_attribute": {
+     "location_attribute_encoding": "IATA",
+     "location_id": "IL",
+     "location_name": "IL"
+    }
+   }
+  },
+  "os": "mac_os",
+  "page_type": "flights.browseview",
+  "passengers": {
+   "adult_count": 0,
+   "child_count": 0,
+   "infant_count": 0
+  },
+  "search_end_timestamp": {
+   "date_time_kind": "DAY",
+   "daylight_savings_offset_mins": "60",
+   "timezone_offset_mins": "-180",
+   "unix_time_millis": "1590451200000"
+  },
+  "search_start_timestamp": {
+   "date_time_kind": "DAY",
+   "daylight_savings_offset_mins": "60",
+   "timezone_offset_mins": "-180",
+   "unix_time_millis": "1589846400000"
+  }
+ },
+ "user_features": {
+  "authentication_status": "UNAUTHENTICATED",
+  "client": {
+   "browser_name": "Chrome",
+   "display_height": "1050",
+   "display_width": "1680",
+   "is_browser": true,
+   "is_mobilephone": false,
+   "is_tablet": false,
+   "referrer_url": "www.skyscanner.co.il"
+  },
+  "ga_cid": "387366589.1589451944",
+  "is_adblock_enabled": false,
+  "is_new_user": false,
+  "is_optedin_for_personalised": true,
+  "platform": "DESKTOP_WEB",
+  "request_id": "128a41d4-66a7-4e32-b4fb-3e1fdb658000",
+  "utid": "a64b2678-54dd-4b8a-b80d-b8d004468f55"
+ }
+}

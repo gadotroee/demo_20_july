@@ -1,0 +1,18 @@
+{
+ "parameters": [
+  {
+   "name": "coronaviruId",
+   "uuid": "e2812508-a4dc-4f47-9142-a8e1ac745461"
+  },
+  {
+   "name": "param",
+   "uuid": "20f5d358-3598-4ccc-9412-11c146727336"
+  }
+ ],
+ "rows": [
+  {
+   "coronaviruId": "status4.aspx",
+   "param": "2020"
+  }
+ ]
+}

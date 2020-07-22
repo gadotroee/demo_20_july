@@ -1,0 +1,138 @@
+{
+ "parameters": [
+  {
+   "name": "traveller_context",
+   "uuid": "ae254fd7-0783-40cb-8f9b-62816d69b892"
+  },
+  {
+   "name": "param",
+   "uuid": "ddbd07ba-ae04-4e0e-bb76-1ce73560d2d1"
+  },
+  {
+   "name": "param2",
+   "uuid": "d64818d3-1a1f-484c-937f-ba233967a2bb"
+  },
+  {
+   "name": "business_domain",
+   "uuid": "90339b8f-a377-4f07-833c-af53942cc962"
+  },
+  {
+   "name": "cabin_class",
+   "uuid": "8e06319a-8d79-4933-a3cd-5f584b91e3d7"
+  },
+  {
+   "name": "date_time_kind",
+   "uuid": "5772293f-f1f1-47c3-bc36-cd861b1b51e5"
+  },
+  {
+   "name": "date_time_kind2",
+   "uuid": "734e492d-10ed-49eb-9ab6-4ae2b379aa9d"
+  },
+  {
+   "name": "daylight_savings_offset_mins",
+   "uuid": "8fb2139d-da60-4a0f-9521-8dbfc67de53c"
+  },
+  {
+   "name": "device_guid",
+   "uuid": "9c03597a-b7ae-4dfc-a230-b4a7d7b06bb0"
+  },
+  {
+   "name": "group_model",
+   "uuid": "4de6025d-3b68-4def-8baa-6db32f0f6012"
+  },
+  {
+   "name": "guid",
+   "uuid": "330d834c-c619-40c9-a9a7-f045e89e0c94"
+  },
+  {
+   "name": "location_attribute_encoding",
+   "uuid": "68ddb7bb-8bb1-40e3-8911-b59d81618dd4"
+  },
+  {
+   "name": "location_attribute_encoding2",
+   "uuid": "6433bfc2-189a-415b-bc9a-3e9a75141985"
+  },
+  {
+   "name": "location_attribute_encoding3",
+   "uuid": "6239d076-579f-48fa-8e07-4ba300518e89"
+  },
+  {
+   "name": "location_attribute_encoding4",
+   "uuid": "2107127c-bfc2-4571-850f-6bca6b490ea2"
+  },
+  {
+   "name": "location_attribute_encoding5",
+   "uuid": "8d303964-f2a9-4653-9be1-c31f39afb38c"
+  },
+  {
+   "name": "location_attribute_encoding6",
+   "uuid": "84d69c92-008f-4159-af37-da6f7e2e518d"
+  },
+  {
+   "name": "location_id",
+   "uuid": "5f9d7b4a-1a59-4685-a62f-a9fd41eed596"
+  },
+  {
+   "name": "location_id2",
+   "uuid": "2fd98c82-6cd8-4e20-b1d7-9a361804c538"
+  },
+  {
+   "name": "location_id3",
+   "uuid": "0e750eb8-7b71-4527-b286-ef1eaf3b9f05"
+  },
+  {
+   "name": "sequence_number",
+   "uuid": "47591c5e-ebfc-4da0-aed0-919e3667b5d9"
+  },
+  {
+   "name": "timezone_offset_mins",
+   "uuid": "c9ff3bf9-1527-4eae-884f-6a692865991b"
+  },
+  {
+   "name": "unix_time_millis",
+   "uuid": "5d0f6f6a-1fdb-4fcd-9c1b-f6e97863af04"
+  },
+  {
+   "name": "unix_time_millis2",
+   "uuid": "38027907-7c67-4aa8-8c2f-e44131ddb1b6"
+  },
+  {
+   "name": "unix_time_millis3",
+   "uuid": "db3d525a-34d7-49dc-b133-c3bb0a1ebc5c"
+  },
+  {
+   "name": "unix_time_millis4",
+   "uuid": "b63f4aaf-5d16-40d6-948c-525cdace42b4"
+  }
+ ],
+ "rows": [
+  {
+   "traveller_context": "fa55c270-19e6-4ba2-b4ab-ef25a859b8f4",
+   "param": "200519",
+   "param2": "200526",
+   "business_domain": "FLIGHT",
+   "cabin_class": "ECONOMY",
+   "date_time_kind": 2,
+   "date_time_kind2": 2,
+   "daylight_savings_offset_mins": 60,
+   "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+   "group_model": "ADULT_16_PLUS",
+   "guid": "f9e53934-f1e1-4958-a7b6-8bf18acb143f",
+   "location_attribute_encoding": "SS_GEO2_ID",
+   "location_attribute_encoding2": "SS_GEO2_ID",
+   "location_attribute_encoding3": "SS_GEO1_ID",
+   "location_attribute_encoding4": "SS_GEO1_ID",
+   "location_attribute_encoding5": "SS_GEO2_ID",
+   "location_attribute_encoding6": "SS_GEO1_ID",
+   "location_id": "TLV",
+   "location_id2": "TLV",
+   "location_id3": "TLV",
+   "sequence_number": 8,
+   "timezone_offset_mins": 120,
+   "unix_time_millis": 1590451200000,
+   "unix_time_millis2": 1589846400000,
+   "unix_time_millis3": 1590451200000,
+   "unix_time_millis4": 1589846400000
+  }
+ ]
+}

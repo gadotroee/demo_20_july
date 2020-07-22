@@ -1,0 +1,25 @@
+{
+ "experiments": [
+  {
+   "name": "AAExperiment",
+   "variant": "b",
+   "version": "1"
+  }
+ ],
+ "header": {
+  "client_timestamp": {
+   "date_time_kind": 0,
+   "daylight_savings_offset_mins": "60",
+   "timezone_offset_mins": "120",
+   "unix_time_millis": "1589451943368"
+  },
+  "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+  "experiment_allocation_id": "80707570efd7fbd3f29a3c5b99ef3c5690ee6269c99286b5fddb73492c83a6ab",
+  "guid": "7e4e94e1-9849-419f-b927-d6cd219d5777",
+  "sequence_number": "3",
+  "traveller_identity": {
+   "authentication_status": "UNAUTHENTICATED",
+   "utid": "a64b2678-54dd-4b8a-b80d-b8d004468f55"
+  }
+ }
+}

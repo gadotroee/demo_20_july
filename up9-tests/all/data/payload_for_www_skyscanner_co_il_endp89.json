@@ -1,0 +1,85 @@
+{
+ "business_domain": "FLIGHT",
+ "destination": {
+  "location_attribute": {
+   "location_attribute_encoding": "SS_GEO2_ID",
+   "location_id": "1"
+  }
+ },
+ "end_date": {
+  "date_time_kind": "2",
+  "unix_time_millis": "1590451200000"
+ },
+ "flight_search": {
+  "cabin_class": "ECONOMY",
+  "is_direct_only_selected": false,
+  "passenger_group": {
+   "adult_count": null,
+   "group_model": "ADULT_16_PLUS"
+  },
+  "return": {
+   "leg1": {
+    "date": {
+     "date_time_kind": "2",
+     "unix_time_millis": "1589846400000"
+    },
+    "destination": {
+     "location_attribute": {
+      "location_attribute_encoding": "SS_GEO2_ID",
+      "location_id": "1"
+     }
+    },
+    "origin": {
+     "location_attribute": {
+      "location_attribute_encoding": "SS_GEO1_ID",
+      "location_id": "TLV"
+     }
+    }
+   },
+   "leg2": {
+    "date": {
+     "date_time_kind": "2",
+     "unix_time_millis": "1590451200000"
+    },
+    "destination": {
+     "location_attribute": {
+      "location_attribute_encoding": "SS_GEO1_ID",
+      "location_id": "TLV"
+     }
+    },
+    "origin": {
+     "location_attribute": {
+      "location_attribute_encoding": "SS_GEO2_ID",
+      "location_id": "1"
+     }
+    }
+   }
+  }
+ },
+ "header": {
+  "client_timestamp": {
+   "date_time_kind": 0,
+   "daylight_savings_offset_mins": "60",
+   "timezone_offset_mins": "120",
+   "unix_time_millis": "1589451949673"
+  },
+  "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+  "experiment_allocation_id": "80707570efd7fbd3f29a3c5b99ef3c5690ee6269c99286b5fddb73492c83a6ab",
+  "guid": "f9e53934-f1e1-4958-a7b6-8bf18acb143f",
+  "sequence_number": "8",
+  "traveller_identity": {
+   "authentication_status": "UNAUTHENTICATED",
+   "utid": "a64b2678-54dd-4b8a-b80d-b8d004468f55"
+  }
+ },
+ "origin": {
+  "location_attribute": {
+   "location_attribute_encoding": "SS_GEO1_ID",
+   "location_id": "TLV"
+  }
+ },
+ "start_date": {
+  "date_time_kind": "2",
+  "unix_time_millis": "1589846400000"
+ }
+}

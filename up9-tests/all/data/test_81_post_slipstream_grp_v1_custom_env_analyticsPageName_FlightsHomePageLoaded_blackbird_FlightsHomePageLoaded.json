@@ -1,0 +1,58 @@
+{
+ "parameters": [
+  {
+   "name": "traveller_context",
+   "uuid": "ae254fd7-0783-40cb-8f9b-62816d69b892"
+  },
+  {
+   "name": "param",
+   "uuid": "ddbd07ba-ae04-4e0e-bb76-1ce73560d2d1"
+  },
+  {
+   "name": "param2",
+   "uuid": "d64818d3-1a1f-484c-937f-ba233967a2bb"
+  },
+  {
+   "name": "accept_language",
+   "uuid": "37ec3eee-c213-4735-b86c-d22b88f3633a"
+  },
+  {
+   "name": "daylight_savings_offset_mins",
+   "uuid": "ab2b2b3e-2ebd-4635-aa0c-a18c2bf764d3"
+  },
+  {
+   "name": "device_guid",
+   "uuid": "eafb825d-992d-4628-9507-df1fb8bdd485"
+  },
+  {
+   "name": "guid",
+   "uuid": "ced3fa33-92e9-4349-8192-60a425feba54"
+  },
+  {
+   "name": "timezone_offset_mins",
+   "uuid": "ce7868b1-048a-46cf-8d38-ae73672f782c"
+  },
+  {
+   "name": "user_agent",
+   "uuid": "9e68a752-a0aa-481a-9dfb-50be7a47d389"
+  },
+  {
+   "name": "user_preferences_guid",
+   "uuid": "99b7773c-2131-4476-9211-b9f120ef972e"
+  }
+ ],
+ "rows": [
+  {
+   "traveller_context": "fa55c270-19e6-4ba2-b4ab-ef25a859b8f4",
+   "param": "200519",
+   "param2": "200526",
+   "accept_language": "en-US,en;q=0.9",
+   "daylight_savings_offset_mins": 60,
+   "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+   "guid": "26e92ac3-16fa-4398-a9ca-9a4fc7fbc8a8",
+   "timezone_offset_mins": 120,
+   "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36",
+   "user_preferences_guid": "3942e5ff-d771-4618-a666-05a87a415dcb"
+  }
+ ]
+}

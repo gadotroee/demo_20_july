@@ -1,0 +1,20 @@
+{
+ "header": {
+  "client_timestamp": {
+   "date_time_kind": 0,
+   "daylight_savings_offset_mins": "60",
+   "timezone_offset_mins": "120",
+   "unix_time_millis": "1589451949415"
+  },
+  "device_guid": "2b11528d-73cd-484d-9254-1af50815992f",
+  "experiment_allocation_id": "80707570efd7fbd3f29a3c5b99ef3c5690ee6269c99286b5fddb73492c83a6ab",
+  "guid": "3edecbfa-4210-478f-832f-37a66c2a3b74",
+  "sequence_number": "11",
+  "traveller_identity": {
+   "authentication_status": "UNAUTHENTICATED",
+   "utid": "a64b2678-54dd-4b8a-b80d-b8d004468f55"
+  },
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36",
+  "user_preferences_guid": "3942e5ff-d771-4618-a666-05a87a415dcb"
+ }
+}
