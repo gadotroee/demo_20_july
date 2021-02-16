@@ -1,0 +1,30 @@
+{
+ "parameters": [
+  {
+   "name": "param",
+   "uuid": "fe0328ef-684f-4a42-b63d-2bc447b2bd10"
+  },
+  {
+   "name": "param2",
+   "uuid": "d1aaf258-93ff-4a23-8cc4-2d29747c203d"
+  }
+ ],
+ "rows": [
+  {
+   "param": "*-*",
+   "param2": ""
+  },
+  {
+   "param": "*-SFO",
+   "param2": ""
+  },
+  {
+   "param": "FRA-*",
+   "param2": ""
+  },
+  {
+   "param": "TLV-*",
+   "param2": ""
+  }
+ ]
+}

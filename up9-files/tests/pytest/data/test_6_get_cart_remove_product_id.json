@@ -1,0 +1,26 @@
+{
+ "parameters": [
+  {
+   "name": "source",
+   "uuid": "9bdd15a3-ce03-4b70-bea9-80fc5f6f41a7"
+  },
+  {
+   "name": "startDate",
+   "uuid": "13dcd24a-5dda-45a4-961e-22bb2e711d09"
+  }
+ ],
+ "rows": [
+  {
+   "source": "*",
+   "startDate": "2019-05-21"
+  },
+  {
+   "source": "FRA",
+   "startDate": "2019-05-21"
+  },
+  {
+   "source": "TLV",
+   "startDate": "2019-05-21"
+  }
+ ]
+}
